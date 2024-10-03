@@ -1,0 +1,14 @@
+E:\F24\Yang\IS 389\9.4.24\bin\Debug\net8.0\9.4.24.exe
+E:\F24\Yang\IS 389\9.4.24\bin\Debug\net8.0\9.4.24.deps.json
+E:\F24\Yang\IS 389\9.4.24\bin\Debug\net8.0\9.4.24.runtimeconfig.json
+E:\F24\Yang\IS 389\9.4.24\bin\Debug\net8.0\9.4.24.dll
+E:\F24\Yang\IS 389\9.4.24\bin\Debug\net8.0\9.4.24.pdb
+E:\F24\Yang\IS 389\9.4.24\obj\Debug\net8.0\9.4.24.GeneratedMSBuildEditorConfig.editorconfig
+E:\F24\Yang\IS 389\9.4.24\obj\Debug\net8.0\9.4.24.AssemblyInfoInputs.cache
+E:\F24\Yang\IS 389\9.4.24\obj\Debug\net8.0\9.4.24.AssemblyInfo.cs
+E:\F24\Yang\IS 389\9.4.24\obj\Debug\net8.0\9.4.24.csproj.CoreCompileInputs.cache
+E:\F24\Yang\IS 389\9.4.24\obj\Debug\net8.0\9.4.24.dll
+E:\F24\Yang\IS 389\9.4.24\obj\Debug\net8.0\refint\9.4.24.dll
+E:\F24\Yang\IS 389\9.4.24\obj\Debug\net8.0\9.4.24.pdb
+E:\F24\Yang\IS 389\9.4.24\obj\Debug\net8.0\9.4.24.genruntimeconfig.cache
+E:\F24\Yang\IS 389\9.4.24\obj\Debug\net8.0\ref\9.4.24.dll

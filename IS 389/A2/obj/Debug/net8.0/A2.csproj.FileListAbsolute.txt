@@ -1,0 +1,14 @@
+E:\F24\Yang\IS 389\A2\bin\Debug\net8.0\A2.exe
+E:\F24\Yang\IS 389\A2\bin\Debug\net8.0\A2.deps.json
+E:\F24\Yang\IS 389\A2\bin\Debug\net8.0\A2.runtimeconfig.json
+E:\F24\Yang\IS 389\A2\bin\Debug\net8.0\A2.dll
+E:\F24\Yang\IS 389\A2\bin\Debug\net8.0\A2.pdb
+E:\F24\Yang\IS 389\A2\obj\Debug\net8.0\A2.GeneratedMSBuildEditorConfig.editorconfig
+E:\F24\Yang\IS 389\A2\obj\Debug\net8.0\A2.AssemblyInfoInputs.cache
+E:\F24\Yang\IS 389\A2\obj\Debug\net8.0\A2.AssemblyInfo.cs
+E:\F24\Yang\IS 389\A2\obj\Debug\net8.0\A2.csproj.CoreCompileInputs.cache
+E:\F24\Yang\IS 389\A2\obj\Debug\net8.0\A2.dll
+E:\F24\Yang\IS 389\A2\obj\Debug\net8.0\refint\A2.dll
+E:\F24\Yang\IS 389\A2\obj\Debug\net8.0\A2.pdb
+E:\F24\Yang\IS 389\A2\obj\Debug\net8.0\A2.genruntimeconfig.cache
+E:\F24\Yang\IS 389\A2\obj\Debug\net8.0\ref\A2.dll

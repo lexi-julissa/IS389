@@ -1,0 +1,14 @@
+F:\F24\Yang\IS 389\A4\bin\Debug\net8.0\A4.exe
+F:\F24\Yang\IS 389\A4\bin\Debug\net8.0\A4.deps.json
+F:\F24\Yang\IS 389\A4\bin\Debug\net8.0\A4.runtimeconfig.json
+F:\F24\Yang\IS 389\A4\bin\Debug\net8.0\A4.dll
+F:\F24\Yang\IS 389\A4\bin\Debug\net8.0\A4.pdb
+F:\F24\Yang\IS 389\A4\obj\Debug\net8.0\A4.GeneratedMSBuildEditorConfig.editorconfig
+F:\F24\Yang\IS 389\A4\obj\Debug\net8.0\A4.AssemblyInfoInputs.cache
+F:\F24\Yang\IS 389\A4\obj\Debug\net8.0\A4.AssemblyInfo.cs
+F:\F24\Yang\IS 389\A4\obj\Debug\net8.0\A4.csproj.CoreCompileInputs.cache
+F:\F24\Yang\IS 389\A4\obj\Debug\net8.0\A4.dll
+F:\F24\Yang\IS 389\A4\obj\Debug\net8.0\refint\A4.dll
+F:\F24\Yang\IS 389\A4\obj\Debug\net8.0\A4.pdb
+F:\F24\Yang\IS 389\A4\obj\Debug\net8.0\A4.genruntimeconfig.cache
+F:\F24\Yang\IS 389\A4\obj\Debug\net8.0\ref\A4.dll
