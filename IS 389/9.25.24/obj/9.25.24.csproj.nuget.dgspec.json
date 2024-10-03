@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\F24\\Yang\\IS 389\\9.25.24\\9.25.24.csproj": {}
+    "C:\\Users\\alexi\\OneDrive\\Desktop\\c#\\IS389\\IS 389\\9.25.24\\9.25.24.csproj": {}
   },
   "projects": {
-    "E:\\F24\\Yang\\IS 389\\9.25.24\\9.25.24.csproj": {
+    "C:\\Users\\alexi\\OneDrive\\Desktop\\c#\\IS389\\IS 389\\9.25.24\\9.25.24.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\F24\\Yang\\IS 389\\9.25.24\\9.25.24.csproj",
+        "projectUniqueName": "C:\\Users\\alexi\\OneDrive\\Desktop\\c#\\IS389\\IS 389\\9.25.24\\9.25.24.csproj",
         "projectName": "9.25.24",
-        "projectPath": "E:\\F24\\Yang\\IS 389\\9.25.24\\9.25.24.csproj",
+        "projectPath": "C:\\Users\\alexi\\OneDrive\\Desktop\\c#\\IS389\\IS 389\\9.25.24\\9.25.24.csproj",
         "packagesPath": "C:\\Users\\alexi\\.nuget\\packages\\",
-        "outputPath": "E:\\F24\\Yang\\IS 389\\9.25.24\\obj\\",
+        "outputPath": "C:\\Users\\alexi\\OneDrive\\Desktop\\c#\\IS389\\IS 389\\9.25.24\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alexi\\AppData\\Roaming\\NuGet\\NuGet.Config"
