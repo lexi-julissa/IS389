@@ -1,0 +1,15 @@
+C:\Users\alexi\OneDrive\Desktop\c#\IS389\IS 389\A5\bin\Debug\net8.0\A5.exe
+C:\Users\alexi\OneDrive\Desktop\c#\IS389\IS 389\A5\bin\Debug\net8.0\A5.deps.json
+C:\Users\alexi\OneDrive\Desktop\c#\IS389\IS 389\A5\bin\Debug\net8.0\A5.runtimeconfig.json
+C:\Users\alexi\OneDrive\Desktop\c#\IS389\IS 389\A5\bin\Debug\net8.0\A5.dll
+C:\Users\alexi\OneDrive\Desktop\c#\IS389\IS 389\A5\bin\Debug\net8.0\A5.pdb
+C:\Users\alexi\OneDrive\Desktop\c#\IS389\IS 389\A5\obj\Debug\net8.0\A5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexi\OneDrive\Desktop\c#\IS389\IS 389\A5\obj\Debug\net8.0\A5.AssemblyInfoInputs.cache
+C:\Users\alexi\OneDrive\Desktop\c#\IS389\IS 389\A5\obj\Debug\net8.0\A5.AssemblyInfo.cs
+C:\Users\alexi\OneDrive\Desktop\c#\IS389\IS 389\A5\obj\Debug\net8.0\A5.csproj.CoreCompileInputs.cache
+C:\Users\alexi\OneDrive\Desktop\c#\IS389\IS 389\A5\obj\Debug\net8.0\A5.sourcelink.json
+C:\Users\alexi\OneDrive\Desktop\c#\IS389\IS 389\A5\obj\Debug\net8.0\A5.dll
+C:\Users\alexi\OneDrive\Desktop\c#\IS389\IS 389\A5\obj\Debug\net8.0\refint\A5.dll
+C:\Users\alexi\OneDrive\Desktop\c#\IS389\IS 389\A5\obj\Debug\net8.0\A5.pdb
+C:\Users\alexi\OneDrive\Desktop\c#\IS389\IS 389\A5\obj\Debug\net8.0\A5.genruntimeconfig.cache
+C:\Users\alexi\OneDrive\Desktop\c#\IS389\IS 389\A5\obj\Debug\net8.0\ref\A5.dll
