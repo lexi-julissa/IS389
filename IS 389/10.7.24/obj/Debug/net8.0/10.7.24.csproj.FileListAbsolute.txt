@@ -1,0 +1,15 @@
+C:\Users\alexi\OneDrive\Desktop\c#\IS389\IS 389\10.7.24\bin\Debug\net8.0\10.7.24.exe
+C:\Users\alexi\OneDrive\Desktop\c#\IS389\IS 389\10.7.24\bin\Debug\net8.0\10.7.24.deps.json
+C:\Users\alexi\OneDrive\Desktop\c#\IS389\IS 389\10.7.24\bin\Debug\net8.0\10.7.24.runtimeconfig.json
+C:\Users\alexi\OneDrive\Desktop\c#\IS389\IS 389\10.7.24\bin\Debug\net8.0\10.7.24.dll
+C:\Users\alexi\OneDrive\Desktop\c#\IS389\IS 389\10.7.24\bin\Debug\net8.0\10.7.24.pdb
+C:\Users\alexi\OneDrive\Desktop\c#\IS389\IS 389\10.7.24\obj\Debug\net8.0\10.7.24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexi\OneDrive\Desktop\c#\IS389\IS 389\10.7.24\obj\Debug\net8.0\10.7.24.AssemblyInfoInputs.cache
+C:\Users\alexi\OneDrive\Desktop\c#\IS389\IS 389\10.7.24\obj\Debug\net8.0\10.7.24.AssemblyInfo.cs
+C:\Users\alexi\OneDrive\Desktop\c#\IS389\IS 389\10.7.24\obj\Debug\net8.0\10.7.24.csproj.CoreCompileInputs.cache
+C:\Users\alexi\OneDrive\Desktop\c#\IS389\IS 389\10.7.24\obj\Debug\net8.0\10.7.24.sourcelink.json
+C:\Users\alexi\OneDrive\Desktop\c#\IS389\IS 389\10.7.24\obj\Debug\net8.0\10.7.24.dll
+C:\Users\alexi\OneDrive\Desktop\c#\IS389\IS 389\10.7.24\obj\Debug\net8.0\refint\10.7.24.dll
+C:\Users\alexi\OneDrive\Desktop\c#\IS389\IS 389\10.7.24\obj\Debug\net8.0\10.7.24.pdb
+C:\Users\alexi\OneDrive\Desktop\c#\IS389\IS 389\10.7.24\obj\Debug\net8.0\10.7.24.genruntimeconfig.cache
+C:\Users\alexi\OneDrive\Desktop\c#\IS389\IS 389\10.7.24\obj\Debug\net8.0\ref\10.7.24.dll
