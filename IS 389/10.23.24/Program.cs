@@ -15,6 +15,7 @@ namespace Week8{
     {
         public int skill;
 
+
         public Player(int skill)
         {
             this.skill = skill;
@@ -24,7 +25,8 @@ namespace Week8{
 
         public void play()//passes calling player object
         {
-            PinballEvent?.Invoke(this);
+            PinballEvent?.Invoke(this);//question mark - indicates that this event is nullable
+            //if you try to call this with an empty event it will not crash out
         }
     }//class player
     class Machine //subscriber
@@ -52,16 +54,18 @@ namespace Week8{
             while(maxFeatureHits != 0)
             {
                 maxFeatureHits = r.Next(0, pPlayer.skill + 1);//ineddificent but ok prof
+                roundTotal = 0;
 
                 for (int i = 0; i < maxFeatureHits; i++)
                 {
                     thingHit = (r.Next(0, this.features.Count));
-                    Console.WriteLine("{0} hit!", this.features.ElementAt(thingHit).Key);
+                    Console.Write("{0} hit! ", this.features.ElementAt(thingHit).Key);//features list at index thingHit
                     roundTotal =+ this.features.ElementAt(thingHit).Value;
                     
                 }
-                Console.WriteLine("You scored {0} this round", roundTotal);
-                score =+ roundTotal;
+                Console.WriteLine("\nYou scored {0} this round\n", roundTotal);
+                score += roundTotal;
+                Thread.Sleep(1000);
             }//while
             Console.WriteLine("Ball drained!");
             Console.WriteLine("Final score: {0}", this.score);
