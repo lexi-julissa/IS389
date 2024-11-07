@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alexi\\OneDrive\\Desktop\\c#\\IS389\\IS 389\\Exam 1 Review\\Exam 1 Review.csproj",
+      "projectUniqueName": "C:\\Users\\alexi\\OneDrive\\Desktop\\IS 389\\IS389\\IS 389\\Exam 1 Review\\Exam 1 Review.csproj",
       "projectName": "Exam 1 Review",
-      "projectPath": "C:\\Users\\alexi\\OneDrive\\Desktop\\c#\\IS389\\IS 389\\Exam 1 Review\\Exam 1 Review.csproj",
+      "projectPath": "C:\\Users\\alexi\\OneDrive\\Desktop\\IS 389\\IS389\\IS 389\\Exam 1 Review\\Exam 1 Review.csproj",
       "packagesPath": "C:\\Users\\alexi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alexi\\OneDrive\\Desktop\\c#\\IS389\\IS 389\\Exam 1 Review\\obj\\",
+      "outputPath": "C:\\Users\\alexi\\OneDrive\\Desktop\\IS 389\\IS389\\IS 389\\Exam 1 Review\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\alexi\\AppData\\Roaming\\NuGet\\NuGet.Config"

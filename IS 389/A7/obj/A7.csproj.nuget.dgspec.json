@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alexi\\OneDrive\\Desktop\\c#\\IS389\\IS 389\\A7\\A7.csproj": {}
+    "C:\\Users\\alexi\\OneDrive\\Desktop\\IS 389\\IS389\\IS 389\\A7\\A7.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alexi\\OneDrive\\Desktop\\c#\\IS389\\IS 389\\A7\\A7.csproj": {
+    "C:\\Users\\alexi\\OneDrive\\Desktop\\IS 389\\IS389\\IS 389\\A7\\A7.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alexi\\OneDrive\\Desktop\\c#\\IS389\\IS 389\\A7\\A7.csproj",
+        "projectUniqueName": "C:\\Users\\alexi\\OneDrive\\Desktop\\IS 389\\IS389\\IS 389\\A7\\A7.csproj",
         "projectName": "A7",
-        "projectPath": "C:\\Users\\alexi\\OneDrive\\Desktop\\c#\\IS389\\IS 389\\A7\\A7.csproj",
+        "projectPath": "C:\\Users\\alexi\\OneDrive\\Desktop\\IS 389\\IS389\\IS 389\\A7\\A7.csproj",
         "packagesPath": "C:\\Users\\alexi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alexi\\OneDrive\\Desktop\\c#\\IS389\\IS 389\\A7\\obj\\",
+        "outputPath": "C:\\Users\\alexi\\OneDrive\\Desktop\\IS 389\\IS389\\IS 389\\A7\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alexi\\AppData\\Roaming\\NuGet\\NuGet.Config"
