@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alexi\\OneDrive\\Desktop\\IS 389\\IS389\\IS 389\\OA1\\OA1.csproj": {}
+    "C:\\Users\\alexi\\OneDrive\\Desktop\\IS389\\IS 389\\OA1\\OA1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alexi\\OneDrive\\Desktop\\IS 389\\IS389\\IS 389\\OA1\\OA1.csproj": {
+    "C:\\Users\\alexi\\OneDrive\\Desktop\\IS389\\IS 389\\OA1\\OA1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alexi\\OneDrive\\Desktop\\IS 389\\IS389\\IS 389\\OA1\\OA1.csproj",
+        "projectUniqueName": "C:\\Users\\alexi\\OneDrive\\Desktop\\IS389\\IS 389\\OA1\\OA1.csproj",
         "projectName": "OA1",
-        "projectPath": "C:\\Users\\alexi\\OneDrive\\Desktop\\IS 389\\IS389\\IS 389\\OA1\\OA1.csproj",
+        "projectPath": "C:\\Users\\alexi\\OneDrive\\Desktop\\IS389\\IS 389\\OA1\\OA1.csproj",
         "packagesPath": "C:\\Users\\alexi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alexi\\OneDrive\\Desktop\\IS 389\\IS389\\IS 389\\OA1\\obj\\",
+        "outputPath": "C:\\Users\\alexi\\OneDrive\\Desktop\\IS389\\IS 389\\OA1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alexi\\AppData\\Roaming\\NuGet\\NuGet.Config"

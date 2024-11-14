@@ -54,7 +54,12 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "draw.io", "draw.io", "{56EF173D-199A-4E9F-A457-6F73FE004134}"
 	ProjectSection(SolutionItems) = preProject
 		11.4.24.drawio = 11.4.24.drawio
+		icexp.drawio = icexp.drawio
 	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11.13.24", "11.13.24\11.13.24.csproj", "{3EE8D899-6721-42A0-82FF-CB55A3EEB619}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A9", "A9\A9.csproj", "{B25413DE-D674-4133-A10B-1734F603E0D1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -158,6 +163,14 @@ Global
 		{8B9130A6-964F-4C31-B626-19F907F1E5EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8B9130A6-964F-4C31-B626-19F907F1E5EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8B9130A6-964F-4C31-B626-19F907F1E5EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EE8D899-6721-42A0-82FF-CB55A3EEB619}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EE8D899-6721-42A0-82FF-CB55A3EEB619}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EE8D899-6721-42A0-82FF-CB55A3EEB619}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EE8D899-6721-42A0-82FF-CB55A3EEB619}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B25413DE-D674-4133-A10B-1734F603E0D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B25413DE-D674-4133-A10B-1734F603E0D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B25413DE-D674-4133-A10B-1734F603E0D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B25413DE-D674-4133-A10B-1734F603E0D1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
