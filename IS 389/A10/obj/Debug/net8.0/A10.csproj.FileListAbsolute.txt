@@ -1,0 +1,15 @@
+C:\Users\alexi\OneDrive\Desktop\IS389\IS 389\A10\obj\Debug\net8.0\A10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexi\OneDrive\Desktop\IS389\IS 389\A10\obj\Debug\net8.0\A10.AssemblyInfoInputs.cache
+C:\Users\alexi\OneDrive\Desktop\IS389\IS 389\A10\obj\Debug\net8.0\A10.AssemblyInfo.cs
+C:\Users\alexi\OneDrive\Desktop\IS389\IS 389\A10\obj\Debug\net8.0\A10.csproj.CoreCompileInputs.cache
+C:\Users\alexi\OneDrive\Desktop\IS389\IS 389\A10\obj\Debug\net8.0\A10.sourcelink.json
+C:\Users\alexi\OneDrive\Desktop\IS389\IS 389\A10\bin\Debug\net8.0\A10.exe
+C:\Users\alexi\OneDrive\Desktop\IS389\IS 389\A10\bin\Debug\net8.0\A10.deps.json
+C:\Users\alexi\OneDrive\Desktop\IS389\IS 389\A10\bin\Debug\net8.0\A10.runtimeconfig.json
+C:\Users\alexi\OneDrive\Desktop\IS389\IS 389\A10\bin\Debug\net8.0\A10.dll
+C:\Users\alexi\OneDrive\Desktop\IS389\IS 389\A10\bin\Debug\net8.0\A10.pdb
+C:\Users\alexi\OneDrive\Desktop\IS389\IS 389\A10\obj\Debug\net8.0\A10.dll
+C:\Users\alexi\OneDrive\Desktop\IS389\IS 389\A10\obj\Debug\net8.0\refint\A10.dll
+C:\Users\alexi\OneDrive\Desktop\IS389\IS 389\A10\obj\Debug\net8.0\A10.pdb
+C:\Users\alexi\OneDrive\Desktop\IS389\IS 389\A10\obj\Debug\net8.0\A10.genruntimeconfig.cache
+C:\Users\alexi\OneDrive\Desktop\IS389\IS 389\A10\obj\Debug\net8.0\ref\A10.dll
